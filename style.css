@@ -1,0 +1,43 @@
+# google
+center{
+    font-size: large;
+}
+
+span#g{
+    color: blue;
+    font-weight: 40;
+    font-size: 40px;
+}
+
+#b{
+    color: red;
+    font-weight: 40;
+    font-size: 40px;
+}
+
+#o{
+    color: yellow;
+    font-weight: 40;
+    font-size: 40px;
+}
+
+#g{
+    color: blue;
+    font-weight: 40;
+    font-size: 40px;
+}
+
+#l{
+    color: green;
+    font-weight: 40;
+    font-size: 40px;
+}
+
+#e{
+    color: red;
+    font-weight: 40;
+    font-size: 40px;
+}
+form div {
+    width: 450px;
+}
